@@ -1,5 +1,5 @@
 //
-//  Trecina.swift
+//  BoomTextView.swift
 //  SwiftUIDojo
 //
 //  Created by Milan Maksimovic on 9.12.21..
